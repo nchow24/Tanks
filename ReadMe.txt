@@ -1,6 +1,6 @@
 STARTING TANKS:
 
-open TanksGame.exe
+open TanksProjectBuild.exe
 
 Features implemented:
 - menu
